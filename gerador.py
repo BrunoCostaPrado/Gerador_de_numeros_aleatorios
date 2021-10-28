@@ -1,3 +1,5 @@
 import random
 x = random.random()
-print(x)
+y= random.random()
+z=((x*y)*(x+y))
+print(z)
